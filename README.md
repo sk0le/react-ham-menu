@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">React Hamburger Menu</h3>
+  <h2 align="center">React Hamburger Menu</h3>
 
   <p align="center">
     An awesome hamburger menu done in React
@@ -8,7 +8,7 @@
 
 ## About The Project
 
-![Drag Racing](https://i.ibb.co/mjqz81k/screenshot-1.png)
+![Drag Racing](https://i.ibb.co/mJqZ81K/Screenshot-1.png)
 
 Really simple but really powerfull hamburger menu using react
 
